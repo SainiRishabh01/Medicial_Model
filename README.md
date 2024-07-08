@@ -1,3 +1,8 @@
+Project Mentor:
+Yatharth Gupta<br>
+Surya Karthikeya<br>
+Gaurav Mahendraker<br>
+Yash Vashistha<br>
 # TumourDetection 
 ## [Website Link](https://warlord-k-iitisoc-22-ai-ml-21-tumor-detection-appapp-zhwh17.streamlitapp.com/)
 ## **Summary**
